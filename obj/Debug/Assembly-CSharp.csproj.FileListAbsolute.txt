@@ -1,0 +1,2 @@
+C:\Users\neelk\ShoppiFy\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\neelk\ShoppiFy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
